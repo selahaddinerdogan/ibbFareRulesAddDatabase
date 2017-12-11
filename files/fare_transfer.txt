@@ -1,0 +1,28 @@
+transfer_id,agency_id,price,description
+1,12,2.6,iett ilk binis
+2,12,1.85,iett 1. aktarma
+3,12,1.4,iett 2. aktarma
+3,12,0.9,iett 3. aktarma
+4,12,0.9,iett 4. aktarma
+5,12,0.9,iett 5. aktarma
+1,4,2.6,tcdd ilk binis
+2,4,1.95,tcdd birinci aktarma
+3,4,1.7,tcdd ikinci aktarma
+4,4,1.5,tcdd ucuncu aktarma
+5,4,1.5,tcdd dorduncu aktarma
+6,4,1.5,tcdd besinci aktarma
+1,11,1.95,Metro istanbul  1 ile 3 durak 
+4,11,3,Metro istanbul  4 ile 9 durak 
+10,11,3.25,Metro istanbul  10 ile  durak 15
+16,11,3.4,Metro istanbul  16 ile 21 durak 
+22,11,3.5,Metro istanbul  22 ile 27 durak 
+27,11,3.6,Metro istanbul  27 ile 33 durak 
+34,11,3.85,Metro istanbul  34 ile 39 durak 
+40,11,3.85,Metro istanbul  40 ve uzeri durak 
+0,18,2,ilk binis 0-2 km
+2,18,2.15,2-4 km
+4,18,2.3,4-7 km
+7,18,2.4,7-8 km
+11,18,2.65,11-15 km
+15,18,2.95,15-20 km
+20,18,0.1,20 km uzeri her km icin alinacak ucret

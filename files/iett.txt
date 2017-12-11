@@ -1,0 +1,103 @@
+route_id;route_long_name;Fare
+522;Alemdağ-Çıksalın;2.6
+11ÜS;Sultanbeyli - Üsküdar ;2.6
+15F;Beykoz – Kadıköy;2.6
+89C;Başakşehir 4.Etap – Taksim;2.6
+130A;Deniz Harp Okulu - Kadıköy ;2.6
+16D;Altkaynarca / Pendik - Kadıköy;2.6
+122B;Yenidoğan – Mecidiyeköy;5.2
+122D;Taşdelen Cumhuriyet Mahallesi – Mecidiyeköy;5.2
+122M;Şahinbey – Mecidiyeköy;5.2
+122Y;Çekmeköy - Mecidiyeköy ;5.2
+125;Kadıköy/4. Levent/Konaklar Mahallesi;5.2
+129T;Bostancı – Taksim;5.2
+500A;Topkapı / Edirnekapı – Kadıköy;5.2
+500T;Tuzla Şifa Mahallesi – Cevizlibağ;5.2
+522B;Yenidoğan – Topkapı;5.2
+522N;Nişantepe - 4.Levent Metro;5.2
+522ST;Sultanbeyli – Mecidiyeköy;5.2
+121A;Beykoz – Mecidiyeköy;5.2
+202;Bostancı-Taksim;5.2
+251;Pendik - Mecidiyeköy / Şişli;5.2
+252;Kartal - Mecidiyeköy / Şişli;5.2
+256;Yeditepe Üniversitesi- Ataşehir-Taksim;5.2
+25G;Sarıyer-Mecidiyeköy-Taksim;5.2
+40;Rumelifeneri/Garipçe-Taksim;2.6
+E-57;Esenkent Bahçeşehir – Bakırköy;5.2
+E-58;Esenkent Bahçeşehir – Mecidiyeköy;5.2
+76E;Boğazköy / Bahçeşehir – Taksim;5.2
+145T;Beylikdüzü – Taksim;5.2
+122H;S.Gökçen H.Limanı-Yenişehir-4.Levent Metro;5.2
+E-9;Bostancı-S.Gökçen H.Limanı;5.2
+E-11;S.Gökçen H.Limanı-Kadıköy;5.2
+E-10;S.Gökçen H.Limanı-Kadıköy;5.2
+122V;Veysel Karani - 4.Levent Metro;5.2
+E-3;S.Gökçen Havalimanı-4.Levent;7.8
+36YM;Yunusemre Mh.-Mecidiyeköy;2.6
+36L;Mescidiselam – Beşiktaş;4.45
+79T;Kayabaşı Kiptaş – Taksim;4.45
+76D;Bahçeşehir / Esenkent – Taksim;4.45
+131V;Veysel Karani - Yakacık / Kartal;1.85
+134;Viaport/ Hilal Konutları-Kartal;1.85
+138;Cumhuriyet Köyü/Ömerli-Ümraniye;4.85
+145M;Yeşilkent /Beykent – Taksim;5.2
+76T;Ispartakule Bizimevler - Taksim;5.2
+SG-1;Kadıköy-Sabiha Gökçen Havalimanı;10
+SG-2;Taksim-Sabiha Gökçen Havalimanı;15
+TB1;Sultanahmet-Dolmabahçe-Sultanahmet;4.85
+TB2;Sultanahmet-Çamlıca-Sultanahmet;4.85
+YH-1;Yenikapı İdo-Atatürk Havalimanı;6
+YT-1;Yenikapı İdo-Taksim;6
+TH-1;Taksim-Atatürk Havalimanı;12
+1;Kirazlıtepe - Acıbadem - Kadıköy;1.85
+11BE;Burhaniye Mahallesi - Üsküdar;1.85
+11C;Emniyet Mahallesi - Üsküdar;1.85
+12A;Kadıköy - Üsküdar;1.85
+12C;Üsküdar Devlet Hastanesi - Üsküdar;1.85
+134CK;Velibaba Kiptaş Konutları / Cezaevi - Kartal;1.85
+134GK;Uğurmumcu/ Gümüşpınar - Kartal;1.85
+134K;Kurfalı - Kartal;1.85
+134UK;Uğurmumcu - Kartal;1.85
+134YK;Uğurmumcu - Yakacık - Kartal;1.85
+142A;Boğazköy - Avcılar Metrobüs;1.85
+142F;Yeşilkent - Avcılar Metrobüs;1.85
+142K;Esenyurt Kiptaş 4.Etap / 5.Etap - Avcılar Metrobüs;1.85
+14C;Üsküdar Devlet Hastanesi - Kadıköy;1.85
+15C;Ferah Mahallesi - Üsküdar;1.85
+15K;Kirazlıtepe - Üsküdar;1.85
+25Y;Hacıosman Metro - Yunus Emre / Uyum Sitesi;1.85
+31K;Kuyumcukent-Yenibosna Metro;1.85
+36S;Habipler Merkez - Sultangazi Belediyesi;1.85
+3A;Kadıköy - Ünalan Mahallesi;1.85
+3B;Kadıköy - Ünalan Mahallesi;1.85
+42K;Kâzımkarabekir - Sarıyer;1.85
+42KT;Sarıyer - Kocataş;1.85
+78E;Başakşehir 4.Etap - Kayabaşı Kiptaş;1.85
+78F;Başakşehir 4.Etap - Fenertepe;1.85
+86V;Eyüpsultan - Vezneciler;1.85
+98B;Yenibosna Kuyumcukent - Bakırköy;1.85
+98D;Yeni Mahalle Metro / Ateştuğla - Bakırköy;1.85
+98K;Yeni Mahalle Metro / Kirazlı - Bakırköy;1.85
+BM4;Kavaklı/İhlas Marmara Evleri - Avcılar Metrobüs ;1.85
+HT5;G.O.Paşa Devlet Hastanesi - Kocatepe Metro;1.85
+12;Kadıköy - Üsküdar;1.85
+3;Burhaniye Mahallesi - Kadıköy;1.85
+6;Küçükçamlıca / Bulgurlu - Üsküdar;1.85
+25;Hacıosman Metro / Sarıyer-Havantepe;1.85
+7;Topağacı Mah./ Ümraniye - Rasathane;1.85
+139;Harem-Şile;7.90
+139T;Tepeüstü-Şile;4.90
+401;Çatalca-Yenibosna;3.80
+401T;Tepekent-Avcılar;3.15
+402;Binkılıç-Yenibosna;3.35
+403;Çiftlikköy-Çatalca;3.35
+404;Yalıköy-Çatalca;3.50
+418;Hadımköy-Yenibosna;3.10
+429;Kıraç-Yenibosna;2.90
+448;Mimarsinan-Yenibosna;3.15
+458;Gürpınar-Yenibosna;2.90
+336A;Balaban-Bayrampaşa;3.85
+300;Silivri-Tüyap;4.0
+303;Silivri-Yenibosna;3.20
+303B;Cezaevi-Otogar;5.50
+336H;Hadımköy-Bayrampaşa Metro;3.15
